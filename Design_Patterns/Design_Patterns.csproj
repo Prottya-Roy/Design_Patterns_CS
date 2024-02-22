@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Design_Patterns.Factory_Pattern.Storage_Provider_Example.StorageProviderMain</StartupObject>
+    <StartupObject>Design_Patterns.Builder_Pattern.MealBuilderMain</StartupObject>
   </PropertyGroup>
 
 </Project>
