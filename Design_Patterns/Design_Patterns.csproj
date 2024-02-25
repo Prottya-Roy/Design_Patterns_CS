@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Design_Patterns.Composite_Pattern.CompositeMain</StartupObject>
+    <StartupObject>Design_Patterns.Flyweight_Pattern.FlyweightMain</StartupObject>
   </PropertyGroup>
 
 </Project>
