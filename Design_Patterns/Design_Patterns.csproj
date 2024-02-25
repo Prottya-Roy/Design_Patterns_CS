@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Design_Patterns.Facade_Pattern.FacadeMain</StartupObject>
+    <StartupObject>Design_Patterns.Iterator_Pattern.IteratorMain</StartupObject>
   </PropertyGroup>
 
 </Project>
