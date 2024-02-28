@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Design_Patterns.Mediator_Pattern.MediatorMain</StartupObject>
+    <StartupObject>Design_Patterns.Visitor_Pattern.VisitorMain</StartupObject>
   </PropertyGroup>
 
 </Project>
