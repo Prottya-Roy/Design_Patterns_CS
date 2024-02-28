@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Design_Patterns.Chain_of_Responsibility_Pattern.CoRMain</StartupObject>
+    <StartupObject>Design_Patterns.Mediator_Pattern.MediatorMain</StartupObject>
   </PropertyGroup>
 
 </Project>
